@@ -5,11 +5,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="300mm"
+   width="320mm"
    height="60mm"
-   viewBox="0 0 300 60"
+   viewBox="0 0 320 60"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
@@ -23,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.40435418"
-     inkscape:cx="601.66552"
-     inkscape:cy="309.22152"
+     inkscape:zoom="0.55136578"
+     inkscape:cx="735.13849"
+     inkscape:cy="325.96896"
      inkscape:document-units="mm"
      inkscape:current-layer="g73"
      inkscape:document-rotation="0"
@@ -49,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,6 +94,66 @@
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
    id="tspan26">Sayan Goswami</tspan></tspan></text>
       </g>
+      <image
+         preserveAspectRatio="none"
+         inkscape:svg-dpi="96"
+         width="32.775463"
+         height="32.775463"
+         xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4cHgiIGhlaWdodD0iMTI4cHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVy
+c2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5r
+PSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICA8ZGVmcz4KICAgIDxtYXNrIGlkPSJo
+ZWFkIj4KICAgICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjMyIiBoZWlnaHQ9IjMyIiBmaWxs
+PSJ3aGl0ZSIvPgogICAgICAgIDxwYXRoIGQ9Ik0xMy4wNzk5ODc4LDIzLjA3ODg2NTMgQzkuNTE5
+OTg3NzksMjIuNjc4ODY1MyA1Ljc5OTk4Nzc5LDIxLjI5ODg2NTMgNS43OTk5ODc3OSwxNS4xNzg4
+NjUzIEM1Ljc5OTk4Nzc5LDEzLjQzODg2NTMgNi40MTk5ODc3OSwxMS45OTg4NjUzIDcuNDM5OTg3
+NzksMTAuODc4ODY1MyBDNy4yNzk5ODc3OSwxMC40Nzg4NjUzIDYuNzE5OTg3NzksOC44Mzg4NjUy
+OSA3LjU5OTk4Nzc5LDYuNjM4ODY1MjkgQzcuNTk5OTg3NzksNi42Mzg4NjUyOSA4LjkzOTk4Nzc5
+LDYuMjE4ODY1MjkgMTEuOTk5OTg3OCw4LjI3ODg2NTI5IEMxMy4yNzk5ODc4LDcuOTE4ODY1Mjkg
+MTQuNjM5OTg3OCw3LjczODg2NTI5IDE1Ljk5OTk4NzgsNy43Mzg4NjUyOSBDMTcuMzU5OTg3OCw3
+LjczODg2NTI5IDE4LjcxOTk4NzgsNy45MTg4NjUyOSAxOS45OTk5ODc4LDguMjc4ODY1MjkgQzIz
+LjA1OTk4NzgsNi4xOTg4NjUyOSAyNC4zOTk5ODc4LDYuNjM4ODY1MjkgMjQuMzk5OTg3OCw2LjYz
+ODg2NTI5IEMyNS4yNzk5ODc4LDguODM4ODY1MjkgMjQuNzE5OTg3OCwxMC40Nzg4NjUzIDI0LjU1
+OTk4NzgsMTAuODc4ODY1MyBDMjUuNTc5OTg3OCwxMS45OTg4NjUzIDI2LjE5OTk4NzgsMTMuNDE4
+ODY1MyAyNi4xOTk5ODc4LDE1LjE3ODg2NTMgQzI2LjE5OTk4NzgsMjEuMzE4ODY1MyAyMi40NTk5
+ODc4LDIyLjY3ODg2NTMgMTguODk5OTg3OCwyMy4wNzg4NjUzIEMxOC4xNDAwMTIzLDIzLjMzNzQz
+OTkgMTMuNzYxMzUxMywyMy4xMjQ2MzE5IDEzLjA3OTk4NzgsMjMuMDc4ODY1MyBaIgogICAgICAg
+ICBmaWxsPSJibGFjayIgdHJhbnNmb3JtPSdyb3RhdGUoMCknPgogICAgICAgIDxhbmltYXRlVHJh
+bnNmb3JtCiAgICAgICAgICBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iCiAgICAgICAgICB0eXBl
+PSJyb3RhdGUiCiAgICAgICAgICBmcm9tPSIwIDE2IDIxIgogICAgICAgICAgdG89IjE1IDE2IDIx
+IgogICAgICAgICAgYmVnaW49IjBzIgogICAgICAgICAgZHVyPSIxLjZzIgogICAgICAgICAgdmFs
+dWVzPSIwIDE2IDIxOzE1IDE2IDIxOzAgMTUuNSAyMTstMTUgMTYgMjE7MCAxNiAyMSIKICAgICAg
+ICAgIGtleVNwbGluZXM9IgogICAgICAgICAgICAwIDAgMC41IDE7CiAgICAgICAgICAgIDAuNSAw
+IDEgMTsKICAgICAgICAgICAgMCAwIDAuNSAxOwogICAgICAgICAgICAwLjUgMCAxIDEiCiAgICAg
+ICAgICBrZXlUaW1lcz0iMDswLjI1OzAuNTswLjc1OzEiCiAgICAgICAgICBjYWxjTW9kZT0ic3Bs
+aW5lIgogICAgICAgICAgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiCiAgICAgICAgLz4KICAgICAg
+PC9wYXRoPgogICAgPC9tYXNrPgogICAgPG1hc2sgaWQ9ImFybSI+CiAgICAgIDxyZWN0IHg9IjAi
+IHk9IjAiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0id2hpdGUiLz4KICAgICAgPHBhdGgg
+ZD0iTTYuNjQsMjUuNTYgQzYuNDYsMjUuMSA1LjY4LDIzLjY4IDUsMjMuMyBDNC40NCwyMyAzLjY0
+LDIyLjI2IDQuOTgsMjIuMjQgQzYuMjQsMjIuMjIgNy4xNCwyMy40IDcuNDQsMjMuODggQzguODgs
+MjYuMyA2Ljk2LDI2LjQ2IDYuNjQsMjUuNTYgWiIKICAgICAgICBmaWxsPSJibGFjayIgdHJhbnNm
+b3JtPSJyb3RhdGUoMCkiPgogICAgICAgIDxhbmltYXRlVHJhbnNmb3JtCiAgICAgICAgICBhdHRy
+aWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iCiAgICAgICAgICB0eXBlPSJyb3RhdGUiCiAgICAgICAgICBm
+cm9tPSIwIDcuNSAyNS41IgogICAgICAgICAgdG89IjE0IDcuNSAyNS41IgogICAgICAgICAgYmVn
+aW49IjBzIgogICAgICAgICAgZHVyPSIwLjRzIgogICAgICAgICAgdmFsdWVzPSIwIDEwIDI1LjU7
+LTE0IDcuNSAyNS41OzAgNy41IDI1LjU7IgogICAgICAgICAga2V5VGltZXM9IjA7MC41OzEiCiAg
+ICAgICAgICBjYWxjTW9kZT0ibGluZWFyIgogICAgICAgICAgcmVwZWF0Q291bnQ9ImluZGVmaW5p
+dGUiCiAgICAgICAgLz4KICAgICAgPC9wYXRoPgogICAgPC9tYXNrPgogIDwvZGVmcz4KICA8ZyBp
+ZD0ibG9hZGVyIiBtYXNrPSJ1cmwoI2hlYWQpIj4KICAgICAgICA8cGF0aCBkPSJNMCwxNiBDMCwy
+My4wOCA0LjU4LDI5LjA2IDEwLjk0LDMxLjE4IEMxMS43NCwzMS4zMiAxMi4wNCwzMC44NCAxMi4w
+NCwzMC40MiBDMTIuMDQsMzAuMDQgMTIuMDIsMjguNzggMTIuMDIsMjcuNDQgQzguMDI5NzAyMDMs
+MjcuNjUwNzM3NyA2Ljk2LDI2LjQ2IDYuNjQsMjUuNTYgQzYuNDYsMjUuMSA3LjE0NDY5NjIyLDI0
+Ljg0MzI2NCA3LjQ4NDUxMjA0LDI0LjUxOTE3NzQgQzkuNDkwODY2NTEsMjYuNDI1NzUzMSAxMS4x
+OCwyNS42MiAxMi4xLDI1LjIgQzEyLjI0LDI0LjE2IDEyLjY2LDIzLjQ2IDEzLjEyLDIzLjA2IEMx
+My41OCwyMi42NiAxOC40MjY4NDg5LDIyLjY4MDQ4NTYgMTguOTQsMjMuMDYgQzE5LjUyLDIzLjU2
+IDIwLjAyLDI0LjUyIDIwLjAyLDI2LjAyIEMyMC4wMiwyOC4xNiAyMCwyOS44OCAyMCwzMC40MiBD
+MjAsMzAuODQgMjAuMywzMS4zNCAyMS4xLDMxLjE4IEMyNy40MiwyOS4wNiAzMiwyMy4wNiAzMiwx
+NiBDMzIsNy4xNiAyNC44NCwwIDE2LDAgQzcuMTYsMCAwLDcuMTYgMCwxNiBaIgogICAgICAgICAg
+aWQ9ImJvZHkiIGZpbGw9IiM5NTlEQTUiIG1hc2s9InVybCgjYXJtKSI+PC9wYXRoPgogIDwvZz4K
+PC9zdmc+
+"
+         id="image74"
+         x="17.608429"
+         y="30.023365" />
     </g>
   </g>
 </svg>
