@@ -1,61 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="300mm"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="320mm"
    height="60mm"
-   viewBox="0 0 300 60"
+   viewBox="0 0 320 60"
    version="1.1"
-   id="svg8"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
-   sodipodi:docname="intro.svg">
+   id="svg8">
   <defs
      id="defs2" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.40435418"
-     inkscape:cx="601.66552"
-     inkscape:cy="309.22152"
-     inkscape:document-units="mm"
-     inkscape:current-layer="g73"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:snap-text-baseline="true"
-     inkscape:window-width="1252"
-     inkscape:window-height="811"
-     inkscape:window-x="0"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0"
-     inkscape:pagecheckerboard="true"
-     borderlayer="false"
-     inkscape:showpageshadow="false"
-     inkscape:snap-bbox="true"
-     inkscape:snap-bbox-edge-midpoints="true" />
-  <metadata
-     id="metadata5">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(15.338327,-7.5924255)">
     <g
@@ -72,7 +27,6 @@
            x="-254.66875"
            y="41.847149"
            id="text835"><tspan
-             sodipodi:role="line"
              x="-254.66875"
              y="41.847149"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.5816px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.256058"
@@ -83,7 +37,6 @@
            x="-254.39589"
            y="62.061211"
            id="text24"><tspan
-             sodipodi:role="line"
              id="tspan22"
              x="-254.39589"
              y="62.061211"
@@ -93,6 +46,14 @@
    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
    id="tspan26">Sayan Goswami</tspan></tspan></text>
       </g>
+      <image
+         preserveAspectRatio="none"
+         width="32.775463"
+         height="32.775463"
+         href="octocat.svg"
+         id="image74"
+         x="17.608429"
+         y="30.023365" />
     </g>
   </g>
 </svg>
