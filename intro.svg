@@ -1,34 +1,243 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320mm" height="60mm" viewBox="0 0 320 60" version="1.1" id="svg8">
-    <defs id="defs2" />
-    <g id="layer1" transform="translate(15.338327,-7.5924255)">
-        <g id="g73" transform="matrix(1.0332933,0,0,1.0332933,246.07286,-0.82487573)">
-            <g id="g55" transform="translate(0,0.51211535)">
-                <g id="skin-shadow" />
-                <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:10.2423px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256058" x="-254.66875" y="41.847149" id="text835"><tspan x="-254.66875" y="41.847149" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.5816px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.256058" id="tspan837">Hi there!</tspan></text>
-                <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:10.2423px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256058" x="-254.39589" y="62.061211" id="text24"><tspan id="tspan22" x="-254.39589" y="62.061211" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.256058"><tspan style="fill:#999999;stroke-width:0.256058" id="tspan28">I am</tspan> <tspan style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058" id="tspan26">Sayan Goswami</tspan></tspan></text>
-            </g>
-            <g>
-                <svg width="32.775463" height="32.775463" id="image74" x="17.608429" y="30.023365" viewBox="0 0 32 32" version="1.1">
-                    <defs>
-                        <mask id="head">
-                            <rect x="0" y="0" width="32" height="32" fill="white" />
-                            <path d="M13.0799878,23.0788653 C9.51998779,22.6788653 5.79998779,21.2988653 5.79998779,15.1788653 C5.79998779,13.4388653 6.41998779,11.9988653 7.43998779,10.8788653 C7.27998779,10.4788653 6.71998779,8.83886529 7.59998779,6.63886529 C7.59998779,6.63886529 8.93998779,6.21886529 11.9999878,8.27886529 C13.2799878,7.91886529 14.6399878,7.73886529 15.9999878,7.73886529 C17.3599878,7.73886529 18.7199878,7.91886529 19.9999878,8.27886529 C23.0599878,6.19886529 24.3999878,6.63886529 24.3999878,6.63886529 C25.2799878,8.83886529 24.7199878,10.4788653 24.5599878,10.8788653 C25.5799878,11.9988653 26.1999878,13.4188653 26.1999878,15.1788653 C26.1999878,21.3188653 22.4599878,22.6788653 18.8999878,23.0788653 C18.1400123,23.3374399 13.7613513,23.1246319 13.0799878,23.0788653 Z" fill="black" transform="rotate(0)">
-                                <animateTransform attributeName="transform" type="rotate" from="0 16 21" to="15 16 21" begin="0s" dur="1.6s" values="0 16 21;15 16 21;0 15.5 21;-15 16 21;0 16 21" keySplines="             0 0 0.5 1;             0.5 0 1 1;             0 0 0.5 1;             0.5 0 1 1" keyTimes="0;0.25;0.5;0.75;1" calcMode="spline" repeatCount="indefinite" />
-                            </path>
-                        </mask>
-                        <mask id="arm">
-                            <rect x="0" y="0" width="32" height="32" fill="white" />
-                            <path d="M6.64,25.56 C6.46,25.1 5.68,23.68 5,23.3 C4.44,23 3.64,22.26 4.98,22.24 C6.24,22.22 7.14,23.4 7.44,23.88 C8.88,26.3 6.96,26.46 6.64,25.56 Z" fill="black" transform="rotate(0)">
-                                <animateTransform attributeName="transform" type="rotate" from="0 7.5 25.5" to="14 7.5 25.5" begin="0s" dur="0.4s" values="0 10 25.5;-14 7.5 25.5;0 7.5 25.5;" keyTimes="0;0.5;1" calcMode="linear" repeatCount="indefinite" />
-                            </path>
-                        </mask>
-                    </defs>
-                    <g id="loader" mask="url(#head)">
-                        <path d="M0,16 C0,23.08 4.58,29.06 10.94,31.18 C11.74,31.32 12.04,30.84 12.04,30.42 C12.04,30.04 12.02,28.78 12.02,27.44 C8.02970203,27.6507377 6.96,26.46 6.64,25.56 C6.46,25.1 7.14469622,24.843264 7.48451204,24.5191774 C9.49086651,26.4257531 11.18,25.62 12.1,25.2 C12.24,24.16 12.66,23.46 13.12,23.06 C13.58,22.66 18.4268489,22.6804856 18.94,23.06 C19.52,23.56 20.02,24.52 20.02,26.02 C20.02,28.16 20,29.88 20,30.42 C20,30.84 20.3,31.34 21.1,31.18 C27.42,29.06 32,23.06 32,16 C32,7.16 24.84,0 16,0 C7.16,0 0,7.16 0,16 Z" id="body" fill="#959DA5" mask="url(#arm)" />
-                    </g>
-                </svg>
-            </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320mm"
+   height="60mm"
+   viewBox="0 0 320 60"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="intro.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1324"
+     inkscape:window-height="764"
+     id="namedview31"
+     showgrid="false"
+     inkscape:zoom="0.90619792"
+     inkscape:cx="604.72441"
+     inkscape:cy="113.38583"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g55" />
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(15.338327,-7.5924255)">
+    <g
+       id="g73"
+       transform="matrix(1.0332933,0,0,1.0332933,246.07286,-0.82487573)">
+      <g
+         id="g55"
+         transform="translate(0,0.51211535)">
+        <g
+           id="skin-shadow" />
+        <g
+           aria-label="Hi there!"
+           id="text835"
+           style="font-style:normal;font-weight:normal;font-size:10.2423px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256058">
+          <path
+             d="m -252.98836,41.847149 h 2.16049 v -7.885797 h 9.50616 v 7.885797 h 2.1605 V 24.527203 h -2.1605 v 7.489706 h -9.50616 v -7.489706 h -2.16049 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.5816px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.256058"
+             id="path923" />
+          <path
+             d="m -234.94825,27.251824 c 0.73216,0 1.30829,-0.588134 1.30829,-1.308298 0,-0.732167 -0.57613,-1.308298 -1.30829,-1.308298 -0.72017,0 -1.3083,0.576131 -1.3083,1.308298 0,0.720164 0.58813,1.308298 1.3083,1.308298 z m -1.04424,14.595325 h 2.08847 V 29.364305 h -2.08847 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.5816px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.256058"
+             id="path925" />
+          <path
+             d="m -221.93729,42.087204 c 0.40809,0 0.85219,-0.04801 1.11625,-0.08402 v -1.692385 c -0.18004,0.012 -0.42009,0.04801 -0.67215,0.04801 -1.11625,0 -1.70439,-0.372085 -1.70439,-1.704388 v -7.561723 h 2.37654 v -1.728394 h -2.37654 v -3.372768 h -2.16049 v 3.372768 h -1.82441 v 1.728394 h 1.82441 v 7.573725 c 0,2.388544 1.12826,3.42078 3.42078,3.42078 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.5816px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.256058"
+             id="path927" />
+          <path
+             d="m -218.49251,41.847149 h 2.08848 v -7.28566 c 0,-2.124484 1.28429,-3.588818 3.21673,-3.588818 1.94444,0 3.09671,1.332304 3.09671,3.588818 v 7.28566 h 2.08847 v -7.645742 c 0,-3.024689 -1.81241,-5.077157 -4.46501,-5.077157 -1.86043,0 -3.21674,0.828189 -3.88889,2.232509 h -0.048 v -6.829556 h -2.08848 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.5816px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.256058"
+             id="path929" />
+          <path
+             d="m -200.21234,42.087204 c 2.72462,0 4.76509,-1.632372 5.17318,-3.696843 l 0.024,-0.120027 h -2.05247 l -0.036,0.108025 c -0.36008,1.068243 -1.47634,1.860423 -3.0607,1.860423 -2.2205,0 -3.63683,-1.500341 -3.68484,-4.068927 h 8.99005 V 35.40168 c 0,-3.744853 -2.07647,-6.27743 -5.48525,-6.27743 -3.40878,0 -5.61728,2.652605 -5.61728,6.517485 v 0.012 c 0,3.924894 2.16049,6.433466 5.74931,6.433466 z m -0.14403,-11.114533 c 1.82441,0 3.16872,1.14026 3.37277,3.564813 h -6.82956 c 0.22805,-2.328531 1.64438,-3.564813 3.45679,-3.564813 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.5816px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.256058"
+             id="path931" />
+          <path
+             d="m -192.77064,41.847149 h 2.08847 v -7.801778 c 0,-1.764401 1.05624,-2.928667 2.67661,-2.928667 0.50412,0 0.94822,0.06001 1.11626,0.120028 V 29.20827 c -0.16804,-0.02401 -0.48011,-0.08402 -0.8402,-0.08402 -1.46433,0 -2.61659,0.8762 -3.02468,2.256514 h -0.048 v -2.016459 h -1.96844 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.5816px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.256058"
+             id="path933" />
+          <path
+             d="m -180.62388,42.087204 c 2.72462,0 4.76509,-1.632372 5.17318,-3.696843 l 0.024,-0.120027 h -2.05247 l -0.036,0.108025 c -0.36008,1.068243 -1.47633,1.860423 -3.0607,1.860423 -2.2205,0 -3.63682,-1.500341 -3.68483,-4.068927 h 8.99004 V 35.40168 c 0,-3.744853 -2.07647,-6.27743 -5.48525,-6.27743 -3.40877,0 -5.61728,2.652605 -5.61728,6.517485 v 0.012 c 0,3.924894 2.1605,6.433466 5.74931,6.433466 z m -0.14403,-11.114533 c 1.82442,0 3.16872,1.14026 3.37277,3.564813 h -6.82956 c 0.22806,-2.328531 1.64438,-3.564813 3.45679,-3.564813 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.5816px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.256058"
+             id="path935" />
+          <path
+             d="m -172.19796,36.097839 h 1.87243 l 0.14403,-11.570636 h -2.16049 z m 0.93622,5.869337 c 0.78017,0 1.36831,-0.600136 1.36831,-1.368311 0,-0.780178 -0.58814,-1.368312 -1.36831,-1.368312 -0.76818,0 -1.36832,0.588134 -1.36832,1.368312 0,0.768175 0.60014,1.368311 1.36832,1.368311 z"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.5816px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.256058"
+             id="path937" />
         </g>
+        <g
+           aria-label="I am Sayan Goswami"
+           id="text24"
+           style="font-style:normal;font-weight:normal;font-size:10.2423px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.256058">
+          <path
+             d="m -252.90222,62.061211 h 1.92044 v -15.3955 h -1.92044 z"
+             style="fill:#999999;stroke-width:0.256058"
+             id="path940" />
+          <path
+             d="m -240.55808,62.274592 c 1.48301,0 2.81664,-0.800181 3.46746,-2.016458 h 0.0427 v 1.803077 h 1.85643 v -7.671077 c 0,-2.219171 -1.64304,-3.638161 -4.26764,-3.638161 -2.61393,0 -4.20362,1.472335 -4.36366,3.29675 l -0.0107,0.11736 h 1.79241 l 0.0213,-0.09602 c 0.21338,-0.992226 1.10958,-1.675047 2.53924,-1.675047 1.54702,0 2.43255,0.82152 2.43255,2.176494 v 0.928211 l -3.17939,0.181375 c -2.54991,0.149367 -4.02224,1.333636 -4.02224,3.222065 v 0.02134 c 0,2.016458 1.483,3.350094 3.6915,3.350094 z m -1.7924,-3.350094 v -0.02134 c 0,-1.034901 0.85352,-1.696385 2.33653,-1.781738 l 2.966,-0.181374 v 0.906872 c 0,1.611033 -1.3443,2.816641 -3.09403,2.816641 -1.33364,0 -2.2085,-0.672153 -2.2085,-1.739061 z"
+             style="fill:#999999;stroke-width:0.256058"
+             id="path942" />
+          <path
+             d="m -232.83366,62.061211 h 1.85643 v -6.956248 c 0,-1.547018 1.06691,-2.709949 2.53924,-2.709949 1.37631,0 2.27252,0.885534 2.27252,2.22984 v 7.436357 h 1.85642 v -7.05227 c 0,-1.515011 1.0349,-2.613927 2.50724,-2.613927 1.46166,0 2.30452,0.906872 2.30452,2.432552 v 7.233645 h 1.85642 v -7.660408 c 0,-2.208502 -1.41899,-3.64883 -3.61682,-3.64883 -1.55769,0 -2.85932,0.800182 -3.47812,2.133819 h -0.0427 c -0.48011,-1.354975 -1.60036,-2.133819 -3.11538,-2.133819 -1.42965,0 -2.53924,0.736168 -3.04069,1.835084 h -0.0427 v -1.621702 h -1.85643 z"
+             style="fill:#999999;stroke-width:0.256058"
+             id="path944" />
+          <path
+             d="m -205.35007,62.317269 c 3.64882,0 5.868,-1.781738 5.868,-4.58771 v -0.01067 c 0,-2.379207 -1.36565,-3.670167 -4.54504,-4.34232 l -1.68571,-0.35208 c -1.92044,-0.416095 -2.79531,-1.120255 -2.79531,-2.272517 v -0.01067 c 0,-1.344305 1.21628,-2.251178 3.12605,-2.261847 1.82441,0 3.06203,0.864196 3.27541,2.293855 l 0.0107,0.149367 h 2.32586 l -0.0107,-0.181375 c -0.16004,-2.58192 -2.35787,-4.331651 -5.56926,-4.331651 -3.25408,0 -5.56927,1.803077 -5.57994,4.427673 v 0.01067 c 0,2.283186 1.46167,3.670168 4.48102,4.310313 l 1.67505,0.35208 c 2.03779,0.448102 2.88065,1.120255 2.88065,2.35787 v 0.01067 c 0,1.440327 -1.30163,2.368538 -3.36076,2.368538 -2.05914,0 -3.47813,-0.885535 -3.69151,-2.304524 l -0.0213,-0.138698 h -2.32586 l 0.0107,0.160036 c 0.19204,2.70995 2.47523,4.35299 5.93202,4.35299 z"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
+             id="path946" />
+          <path
+             d="m -194.30756,62.263923 c 1.483,0 2.78463,-0.768174 3.43544,-1.973782 h 0.0427 v 1.77107 h 2.31519 v -7.735092 c 0,-2.251178 -1.73906,-3.702175 -4.48102,-3.702175 -2.76329,0 -4.43834,1.483004 -4.59837,3.41411 l -0.0107,0.11736 h 2.17649 l 0.0213,-0.09602 c 0.19204,-0.896204 1.01356,-1.52568 2.3472,-1.52568 1.42966,0 2.22984,0.746836 2.22984,1.984451 v 0.842858 l -3.05136,0.181375 c -2.6566,0.160036 -4.17162,1.354974 -4.17162,3.307418 v 0.02134 c 0,2.016459 1.50435,3.392771 3.74486,3.392771 z m -1.41899,-3.446116 v -0.02134 c 0,-0.94955 0.76817,-1.557688 2.15515,-1.643041 l 2.74196,-0.170705 v 0.874865 c 0,1.461666 -1.22695,2.560583 -2.84865,2.560583 -1.23761,0 -2.04846,-0.618808 -2.04846,-1.600364 z"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
+             id="path948" />
+          <path
+             d="m -184.97211,65.806062 c 2.19783,0 3.37143,-0.896204 4.20362,-3.222066 l 4.18229,-11.74667 h -2.43256 l -2.8273,9.132743 h -0.0747 l -2.82731,-9.132743 h -2.49656 l 4.08626,11.234554 -0.19205,0.533454 c -0.38408,1.088248 -0.98155,1.376313 -2.0698,1.376313 -0.3094,0 -0.57613,-0.04268 -0.75751,-0.08535 v 1.803077 c 0.2774,0.05335 0.75751,0.106691 1.20561,0.106691 z"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
+             id="path950" />
+          <path
+             d="m -172.15853,62.263923 c 1.48301,0 2.78463,-0.768174 3.43545,-1.973782 h 0.0427 v 1.77107 h 2.31519 v -7.735092 c 0,-2.251178 -1.73906,-3.702175 -4.48102,-3.702175 -2.76329,0 -4.43834,1.483004 -4.59838,3.41411 l -0.0107,0.11736 h 2.1765 l 0.0213,-0.09602 c 0.19204,-0.896204 1.01356,-1.52568 2.3472,-1.52568 1.42965,0 2.22984,0.746836 2.22984,1.984451 v 0.842858 l -3.05136,0.181375 c -2.65661,0.160036 -4.17162,1.354974 -4.17162,3.307418 v 0.02134 c 0,2.016459 1.50434,3.392771 3.74485,3.392771 z m -1.41899,-3.446116 v -0.02134 c 0,-0.94955 0.76818,-1.557688 2.15516,-1.643041 l 2.74196,-0.170705 v 0.874865 c 0,1.461666 -1.22695,2.560583 -2.84865,2.560583 -1.23762,0 -2.04847,-0.618808 -2.04847,-1.600364 z"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
+             id="path952" />
+          <path
+             d="m -164.14604,62.061211 h 2.30452 v -6.540154 c 0,-1.749731 1.04557,-2.923331 2.66727,-2.923331 1.60037,0 2.38988,0.949549 2.38988,2.635266 v 6.828219 h 2.31519 v -7.265652 c 0,-2.58192 -1.41899,-4.171615 -3.88355,-4.171615 -1.69638,0 -2.84864,0.768175 -3.43544,1.909768 h -0.0533 v -1.696386 h -2.30452 z"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
+             id="path954" />
+          <path
+             d="m -140.89809,62.317269 c 4.17161,0 6.63617,-2.485899 6.63617,-6.657513 V 54.08073 h -6.33744 v 1.952444 h 3.97957 v 0.256058 c -0.032,2.336531 -1.7604,3.915557 -4.25697,3.915557 -2.934,0 -4.76908,-2.24051 -4.76908,-5.921346 v -0.01067 c 0,-3.606153 1.78174,-5.750641 4.72641,-5.750641 2.00579,0 3.40344,1.034902 4.05425,2.81664 l 0.032,0.11736 h 2.45389 l -0.0427,-0.192043 c -0.64015,-2.773964 -2.902,-4.854437 -6.50815,-4.854437 -4.37433,0 -7.14829,3.019353 -7.14829,7.87379 v 0.01067 c 0,4.950458 2.77396,8.023157 7.1803,8.023157 z"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
+             id="path956" />
+          <path
+             d="m -127.35901,62.285262 c 3.21139,0 5.32387,-2.219172 5.32387,-5.835994 v -0.02134 c 0,-3.595484 -2.13382,-5.803986 -5.33454,-5.803986 -3.19006,0 -5.31321,2.219171 -5.31321,5.803986 v 0.02134 c 0,3.606153 2.10181,5.835994 5.32388,5.835994 z m 0.0107,-1.931106 c -1.80308,0 -2.97668,-1.418989 -2.97668,-3.904888 v -0.02134 c 0,-2.453891 1.18427,-3.87288 2.95534,-3.87288 1.80307,0 2.97667,1.418989 2.97667,3.87288 v 0.02134 c 0,2.47523 -1.15226,3.904888 -2.95533,3.904888 z"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
+             id="path958" />
+          <path
+             d="m -116.02844,62.285262 c 2.64593,0 4.56637,-1.408321 4.56637,-3.456786 v -0.01067 c 0,-1.611033 -0.87487,-2.517906 -3.16872,-3.05136 l -1.82442,-0.416095 c -1.2056,-0.288066 -1.66437,-0.757506 -1.66437,-1.450997 v -0.01067 c 0,-0.896203 0.77884,-1.483003 2.01645,-1.483003 1.30163,0 2.06981,0.682821 2.20851,1.664378 l 0.0107,0.07468 h 2.16582 l -0.0107,-0.12803 c -0.11736,-1.909767 -1.71772,-3.392771 -4.37433,-3.392771 -2.58192,0 -4.33165,1.376313 -4.33165,3.382102 v 0.01067 c 0,1.632372 1.05624,2.656604 3.19006,3.147383 l 1.83509,0.416094 c 1.2056,0.288066 1.61103,0.70416 1.61103,1.429658 v 0.01067 c 0,0.906873 -0.83219,1.483004 -2.21917,1.483004 -1.41899,0 -2.18717,-0.608138 -2.40055,-1.64304 l -0.0213,-0.106691 h -2.28318 l 0.0107,0.09602 c 0.23472,2.048466 1.87776,3.435448 4.68373,3.435448 z"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
+             id="path960" />
+          <path
+             d="m -107.4825,62.061211 h 2.37921 l 2.33653,-8.407245 h 0.0533 l 2.35787,8.407245 h 2.400548 l 3.072698,-11.223885 h -2.283185 l -2.048466,8.834008 h -0.05335 l -2.347205,-8.834008 h -2.21917 l -2.33653,8.834008 h -0.0427 l -2.04846,-8.834008 h -2.30453 z"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
+             id="path962" />
+          <path
+             d="m -90.433286,62.263923 c 1.483004,0 2.784633,-0.768174 3.435448,-1.973782 h 0.04268 v 1.77107 h 2.315193 v -7.735092 c 0,-2.251178 -1.739062,-3.702175 -4.481018,-3.702175 -2.763295,0 -4.438343,1.483004 -4.598379,3.41411 l -0.01067,0.11736 h 2.176495 l 0.02134,-0.09602 c 0.192044,-0.896204 1.013564,-1.52568 2.3472,-1.52568 1.429658,0 2.22984,0.746836 2.22984,1.984451 v 0.842858 l -3.05136,0.181375 c -2.656604,0.160036 -4.171615,1.354974 -4.171615,3.307418 v 0.02134 c 0,2.016459 1.504342,3.392771 3.744851,3.392771 z m -1.418989,-3.446116 v -0.02134 c 0,-0.94955 0.768175,-1.557688 2.155157,-1.643041 l 2.741956,-0.170705 v 0.874865 c 0,1.461666 -1.226945,2.560583 -2.848647,2.560583 -1.237615,0 -2.048466,-0.618808 -2.048466,-1.600364 z"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
+             id="path964" />
+          <path
+             d="m -82.4208,62.061211 h 2.304523 v -6.93491 c 0,-1.450996 0.970888,-2.528575 2.336532,-2.528575 1.301629,0 2.123149,0.832189 2.123149,2.133819 v 7.329666 h 2.261847 v -7.020263 c 0,-1.418989 0.949549,-2.443222 2.315193,-2.443222 1.365644,0 2.144488,0.842859 2.144488,2.304524 v 7.158961 h 2.315192 v -7.713754 c 0,-2.251178 -1.450996,-3.723513 -3.670167,-3.723513 -1.600364,0 -2.923331,0.842859 -3.499462,2.208502 h -0.05335 c -0.448101,-1.40832 -1.579025,-2.208502 -3.126044,-2.208502 -1.472334,0 -2.613927,0.778844 -3.094036,1.952444 h -0.05335 V 50.837326 H -82.4208 Z"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
+             id="path966" />
+          <path
+             d="m -63.163087,49.108933 c 0.757506,0 1.344306,-0.597469 1.344306,-1.322967 0,-0.736167 -0.5868,-1.333637 -1.344306,-1.333637 -0.746836,0 -1.344305,0.59747 -1.344305,1.333637 0,0.725498 0.597469,1.322967 1.344305,1.322967 z m -1.152262,12.952278 h 2.304524 V 50.837326 h -2.304524 z"
+             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:21.8503px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;stroke-width:0.256058"
+             id="path968" />
+        </g>
+      </g>
+      <g
+         id="g26">
+        <svg
+           width="32.775463"
+           height="32.775463"
+           id="image74"
+           x="17.608429"
+           y="30.023365"
+           viewBox="0 0 32 32"
+           version="1.1">
+          <defs
+             id="defs21">
+            <mask
+               id="head">
+              <rect
+                 x="0"
+                 y="0"
+                 width="32"
+                 height="32"
+                 fill="white"
+                 id="rect11" />
+              <path
+                 d="m 13.079988,23.078865 c -3.5600002,-0.4 -7.2800002,-1.78 -7.2800002,-7.9 0,-1.74 0.62,-3.18 1.64,-4.3 -0.16,-0.4 -0.72,-2.0399997 0.16,-4.2399997 0,0 1.34,-0.42 4.4000002,1.64 1.28,-0.36 2.64,-0.54 4,-0.54 1.36,0 2.72,0.18 4,0.54 3.06,-2.08 4.4,-1.64 4.4,-1.64 0.88,2.2 0.32,3.8399997 0.16,4.2399997 1.02,1.12 1.64,2.54 1.64,4.3 0,6.14 -3.74,7.5 -7.3,7.9 -0.759976,0.258575 -5.138637,0.04577 -5.82,0 z"
+                 fill="black"
+                 id="path13">
+                <animateTransform
+                   attributeName="transform"
+                   type="rotate"
+                   from="0 16 21"
+                   to="15 16 21"
+                   begin="0s"
+                   dur="1.6s"
+                   values="0 16 21;15 16 21;0 15.5 21;-15 16 21;0 16 21"
+                   keySplines="             0 0 0.5 1;             0.5 0 1 1;             0 0 0.5 1;             0.5 0 1 1"
+                   keyTimes="0;0.25;0.5;0.75;1"
+                   calcMode="spline"
+                   repeatCount="indefinite" />
+              </path>
+            </mask>
+            <mask
+               id="arm">
+              <rect
+                 x="0"
+                 y="0"
+                 width="32"
+                 height="32"
+                 fill="white"
+                 id="rect16" />
+              <path
+                 d="M 6.64,25.56 C 6.46,25.1 5.68,23.68 5,23.3 4.44,23 3.64,22.26 4.98,22.24 c 1.26,-0.02 2.16,1.16 2.46,1.64 1.44,2.42 -0.48,2.58 -0.8,1.68 z"
+                 fill="black"
+                 id="path18">
+                <animateTransform
+                   attributeName="transform"
+                   type="rotate"
+                   from="0 7.5 25.5"
+                   to="14 7.5 25.5"
+                   begin="0s"
+                   dur="0.4s"
+                   values="0 10 25.5;-14 7.5 25.5;0 7.5 25.5;"
+                   keyTimes="0;0.5;1"
+                   calcMode="linear"
+                   repeatCount="indefinite" />
+              </path>
+            </mask>
+          </defs>
+          <g
+             id="loader"
+             mask="url(#head)">
+            <path
+               d="m 0,16 c 0,7.08 4.58,13.06 10.94,15.18 0.8,0.14 1.1,-0.34 1.1,-0.76 0,-0.38 -0.02,-1.64 -0.02,-2.98 C 8.029702,27.650738 6.96,26.46 6.64,25.56 6.46,25.1 7.1446962,24.843264 7.484512,24.519177 9.4908665,26.425753 11.18,25.62 12.1,25.2 c 0.14,-1.04 0.56,-1.74 1.02,-2.14 0.46,-0.4 5.306849,-0.379514 5.82,0 0.58,0.5 1.08,1.46 1.08,2.96 0,2.14 -0.02,3.86 -0.02,4.4 0,0.42 0.3,0.92 1.1,0.76 C 27.42,29.06 32,23.06 32,16 32,7.16 24.84,0 16,0 7.16,0 0,7.16 0,16 Z"
+               id="body"
+               fill="#959DA5"
+               mask="url(#arm)" />
+          </g>
+        </svg>
+      </g>
     </g>
+  </g>
 </svg>
