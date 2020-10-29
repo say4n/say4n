@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="222.12598mm"
-   height="53.999805mm"
-   viewBox="0 0 222.12598 53.999805"
+   width="300mm"
+   height="43mm"
+   viewBox="0 0 300 43"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)"
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54576283"
-     inkscape:cx="818.67217"
-     inkscape:cy="147.64178"
+     inkscape:zoom="0.27699631"
+     inkscape:cx="410.53106"
+     inkscape:cy="210.06466"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -35,7 +35,10 @@
      inkscape:window-height="811"
      inkscape:window-x="0"
      inkscape:window-y="23"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="true"
+     borderlayer="false"
+     inkscape:showpageshadow="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -60,18 +63,24 @@
        y="42.415501"
        id="text835"><tspan
          sodipodi:role="line"
-         id="tspan833"
          x="-17.074656"
          y="42.415501"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.264583">Hi there,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#808080;stroke-width:0.264583"
+         id="tspan837">Hi there!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-16.792713"
+       y="63.302555"
+       id="text24"><tspan
          sodipodi:role="line"
-         x="-17.074656"
-         y="74.165497"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
-         id="tspan837"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.4px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999"
-   id="tspan841">I am</tspan> <tspan
-   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25.4px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333"
-   id="tspan843">Sayan Goswami</tspan></tspan></text>
+         id="tspan22"
+         x="-16.792713"
+         y="63.302555"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"><tspan
+   style="fill:#999999"
+   id="tspan28">I am</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.5778px;font-family:'SF Pro Display';-inkscape-font-specification:'SF Pro Display, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333"
+   id="tspan26">Sayan Goswami</tspan></tspan></text>
   </g>
 </svg>
