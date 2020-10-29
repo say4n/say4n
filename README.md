@@ -1,4 +1,4 @@
-### Hello, I'm Sayan
+![](/intro.svg)
 
 My interests span across a myriad range of topics — distributed systems, reinforcement learning, robotics, multi-agent systems, machine learning in general, theoretical CS — to name a few.
 
