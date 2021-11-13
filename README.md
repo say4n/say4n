@@ -9,4 +9,4 @@ Visit my website here: https://sayan.page.
 
 ### GitHub Statistics
 
-![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=say4n&show_icons=true&include_all_commits=true)
+[![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=say4n&show_icons=true&include_all_commits=true&title_color=ffc107&&icon_color=000)](https://sayan.page)
