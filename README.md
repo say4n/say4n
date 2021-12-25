@@ -4,9 +4,8 @@ My interests span across a myriad range of topics — distributed systems, reinf
 
 I love to learn, build solutions to tackle challenging problems.
 
-Visit my website here: https://sayan.page.
+### Overview
 
+[![Sayan's GitHub stats](github-metrics.svg )](https://sayan.page)
 
-### GitHub Statistics
-
-[![Sayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=say4n&show_icons=true&include_all_commits=true&title_color=ffc107&&icon_color=000)](https://sayan.page)
+Visit my webpage here: https://sayan.page.
