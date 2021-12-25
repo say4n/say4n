@@ -1,0 +1,31 @@
+name: GitHub Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Display full year instead of half year
+          
+          plugin_habits: yes
+          plugin_habits_from: 300       # Use 300 events to compute habits
+          plugin_habits_days: 30        # Keep only events from last 30 days
+          plugin_habits_facts: yes      # Display facts section
+          
+          plugin_screenshot: yes
+          plugin_screenshot_title: XKCD of the day  # Section title
+          plugin_screenshot_url: https://xkcd.com   # Website url
+          plugin_screenshot_selector: "#comic img"  # CSS selector to take into screenshot
+          plugin_screenshot_background: no          # Remove page background
