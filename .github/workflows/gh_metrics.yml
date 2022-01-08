@@ -16,6 +16,8 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           
+          base: header, activity, community
+          
           plugin_languages: yes
           plugin_languages_ignored: jupyter-notebook, html, css
           plugin_languages_limit: 8
