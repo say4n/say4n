@@ -6,6 +6,6 @@ I love to learn, build solutions to tackle challenging problems.
 
 ### Overview
 
-[![Sayan's GitHub stats](github-metrics.svg )](https://sayan.page)
+<a href="https://sayan.page"><img src="github-metrics.svg" alt="Sayan's GitHub stats" width="100%"></a>
 
 Visit my webpage here: https://sayan.page.
