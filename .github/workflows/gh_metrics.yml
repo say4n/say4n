@@ -16,7 +16,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           
-          config_display: columns
+          # config_display: columns
           
           base: activity, community
           
